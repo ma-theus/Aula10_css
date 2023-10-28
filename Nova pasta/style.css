@@ -1,0 +1,18 @@
+* {
+    background-color: aqua;
+}
+.souDiv {
+    height: 100px;
+    width: 100%;
+    background-color: white;
+}
+
+#souDiv1 {
+    height: 100px;
+    width: 100px;
+    background-color: gray;
+}
+
+p.souDiv {
+    font-size: 28px;
+}
